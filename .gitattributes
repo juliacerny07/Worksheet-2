@@ -1,9 +1,10 @@
 function setup(){
-    
+    background(0)
 }
 
+createCanvas(800, 600);
+
 function draw(){
-    createCanvas(800, 600);
-
-
+    text("Hello, World!", 0, 50);
+    
 }
